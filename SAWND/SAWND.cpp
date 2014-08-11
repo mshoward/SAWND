@@ -3,6 +3,7 @@
 
 #include "stdafx.h"
 #include "SAWND.h"
+#include <Audioclient.h>
 
 #define MAX_LOADSTRING 100
 
