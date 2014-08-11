@@ -50,13 +50,13 @@ exactly be handled is yet to be determined.
 ##Features
 
 ###Starting Features:
-*Virtual Sound Device
-*Control Board
-*Control Board Component: Application Sound Device Selector
-*Control Board Component: SAWD Settings
+* Virtual Sound Device
+* Control Board
+* Control Board Component: Application Sound Device Selector
+* Control Board Component: SAWD Settings
 
 ###Possible Features:
-*Equalizer
-*Amplifier
-*Audio Transformer
-*Audio Stream Capture
+* Equalizer
+* Amplifier
+* Audio Transformer
+* Audio Stream Capture
